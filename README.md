@@ -1,2 +1,2 @@
 # Prediction
-This is my first repository
+This is a plagiarism checker model.
